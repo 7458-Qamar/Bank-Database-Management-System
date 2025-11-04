@@ -58,5 +58,14 @@ This project demonstrates strong **database design principles**, **SQL expertise
 - Triggers for audit logging and automated updates  
 - Views for reporting and analytics  
 - Sample Data for functionality demonstration  
-- Detailed Comments explaining each component  
+- Detailed Comments explaining each component
 - Performance Indexes for optimization  
+## Contact:
+qamarmehmood533@gmail.com
+https://www.linkedin.com/in/qamarmehmood5/
+
+
+
+
+
+
