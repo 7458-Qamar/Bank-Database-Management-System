@@ -3,13 +3,9 @@
 **Role:** Database Developer & Administrator  
 **Technologies:** MySQL, SQL, Database Design, Stored Procedures, Triggers, Views  
 
----
-
 ## 🧩 Project Overview
 Designed and implemented a complete enterprise-level banking database system to manage all core banking operations including customer relationship management, multi-account handling, transaction processing, loan management, and credit card operations.  
 The system ensures **ACID compliance**, **data integrity**, and **audit trail capabilities** for regulatory compliance.
-
----
 
 ## ⚙️ Key Responsibilities & Achievements
 
@@ -19,8 +15,6 @@ The system ensures **ACID compliance**, **data integrity**, and **audit trail ca
 - Established **foreign key relationships** and constraints for data integrity  
 - Created a comprehensive **entity-relationship model** for banking operations  
 
----
-
 ### 💳 Core Banking Features Implemented
 - Multi-account management (Savings, Checking, Premium, Business)  
 - Real-time transaction processing with **balance tracking**  
@@ -29,15 +23,11 @@ The system ensures **ACID compliance**, **data integrity**, and **audit trail ca
 - Customer relationship management with **KYC verification**  
 - Branch and **employee management modules**  
 
----
-
 ### 🧠 Business Logic Development
 - Developed **3+ stored procedures** for account operations, fund transfers, and interest calculations  
 - Implemented **automated triggers** for audit logging and credit card balance updates  
 - Created **4+ views** for reporting and dashboard requirements  
 - Built **transaction rollback mechanisms** for failed operations  
-
----
 
 ### 🔒 Security & Compliance
 - Implemented **audit trail system** tracking all database modifications  
@@ -45,15 +35,11 @@ The system ensures **ACID compliance**, **data integrity**, and **audit trail ca
 - Secured **PII (SSN, account numbers)** with constraints  
 - Added **CHECK constraints** for balance validation and data consistency  
 
----
-
 ### ⚡ Performance Optimization
 - Created **20+ indexes** on high-query columns  
 - Optimized transaction processing with **locking mechanisms**  
 - Improved JOIN operations using **InnoDB engine**  
 - Designed **views for complex reporting queries**  
-
----
 
 ## 🧮 Technical Highlights
 | Feature | Description |
@@ -64,12 +50,8 @@ The system ensures **ACID compliance**, **data integrity**, and **audit trail ca
 | **Automation** | Real-time triggers and audit logging |
 | **Reporting** | Views for dashboards and BI tools |
 
----
-
 ## 🧠 Summary
 This project demonstrates strong **database design principles**, **SQL expertise**, and a deep understanding of **banking domain requirements**, including regulatory compliance and financial data security.
-
----
 
 ## ✅ Features Implemented
 - 20+ Tables covering all banking operations  
